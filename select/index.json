@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "魂のルフラン(Tabris Mix)",
+  "base_artist": "高橋洋子",
+  "createdAt": "2026-03-20T15:07:02.114641Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魂のルフラン(セルフカヴァー)",
+      "artist": "高橋 洋子",
+      "has_synced": false,
+      "path": "select/pl_01_魂のルフラン(セルフカヴァー)_高橋_洋子.txt"
+    }
+  ]
+}
